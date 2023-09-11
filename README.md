@@ -1,14 +1,14 @@
 
 Please install (if error occurs)
-npm install react-router-dom react-parallax recharts @mui/material @mui/icons-material prop-types
-npm install react-hook-form react-toastify
-npm install react-google-maps
-npm install react-iframe
-npm install -g yarn
-npm install axios
-npm install swiper
-npm install react-responsive-carousel
-npm install react-icons/bi
+•	npm install react-router-dom react-parallax recharts @mui/material @mui/icons-material prop-types
+•	npm install react-hook-form react-toastify
+•	npm install react-google-maps
+•	npm install react-iframe
+•	npm install -g yarn
+•	npm install axios
+•	npm install swiper
+•	npm install react-responsive-carousel
+•	npm install react-icons/bi
 
 
 # Getting Started with Create React App
